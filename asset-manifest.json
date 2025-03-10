@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wealth-management-ebook/static/css/main.087b1651.css",
+    "main.js": "/wealth-management-ebook/static/js/main.468a552e.js",
+    "static/js/453.4bc1bd5c.chunk.js": "/wealth-management-ebook/static/js/453.4bc1bd5c.chunk.js",
+    "index.html": "/wealth-management-ebook/index.html",
+    "main.087b1651.css.map": "/wealth-management-ebook/static/css/main.087b1651.css.map",
+    "main.468a552e.js.map": "/wealth-management-ebook/static/js/main.468a552e.js.map",
+    "453.4bc1bd5c.chunk.js.map": "/wealth-management-ebook/static/js/453.4bc1bd5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087b1651.css",
+    "static/js/main.468a552e.js"
+  ]
+}
